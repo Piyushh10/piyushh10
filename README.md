@@ -1,5 +1,5 @@
 # I'm Piyush 👋
 
-<img alt="my stats" src ="https://github-readme-stats.vercel.app/api?username=Piyushh10&hide=contribs,prs&theme=dark" />
+<img alt="my stats" align="left" width="47%" src ="https://github-readme-stats.vercel.app/api?username=Piyushh10&hide=contribs,prs&theme=dark" />
 
-<img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyushh10&layout=compact" />
+<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyushh10&layout=compact&theme=dark" />
