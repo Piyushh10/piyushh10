@@ -1,4 +1,10 @@
-# I'm Piyush 👋
+Hi there, I'm Piyush Shivnani! 👋
+I am an Android developer currently in my third year of BTech CSE.
+I love building mobile apps, solving coding challenges, and exploring backend development.
+- 💻 Currently working on Android development and improving my DSA skills
+- 🚀 Aiming to be internship & placement-ready
+
+
 
 <img alt="my stats" align="left" width="47%" src ="https://github-readme-stats.vercel.app/api?username=Piyushh10&hide=stars&theme=dark" />
 
