@@ -4,6 +4,11 @@ I love building mobile apps, solving coding challenges, and exploring backend de
 - 💻 Currently working on Android development and improving my DSA skills
 - 🚀 Aiming to be internship & placement ready
 
+🤝 Connect with Me
+- 📧 Email: [shivnanip815@gmail.com]
+- 💼 LinkedIn: linkedin.com/in/piyush-shivnani
+
+
 Feel free to connect, collaborate, or just say hi! 
 
 
