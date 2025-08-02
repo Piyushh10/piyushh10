@@ -2,7 +2,7 @@ Hi there, I'm Piyush Shivnani! 👋
 I am an Android developer currently in my third year of BTech CSE.
 I love building mobile apps, solving coding challenges, and exploring backend development.
 - 💻 Currently working on Android development and improving my DSA skills
-- 🚀 Aiming to be internship & placement ready
+- 🚀 Looking for internships & job offers 
 
 🤝 Connect with Me
 - 📧 Email: shivnanip815@gmail.com
